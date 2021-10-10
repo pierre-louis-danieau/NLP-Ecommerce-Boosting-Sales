@@ -23,3 +23,5 @@ The dataset is available on Kaggle : https://www.kaggle.com/cclark/product-item-
 ### Technical stack : 
 - Clustering : DBSCAN with Scikit Learn
 - NLP : spacy, Tf-IDF, TruncatedSVD, LSA, Wordcloud
+
+If Github does not show the notebook, please go to : https://nbviewer.org/github/pierre-louis-danieau/NLP-Ecommerce-Boosting-Sales/blob/main/NLP_Ecommerce_Analysis.ipynb
