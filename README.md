@@ -1,6 +1,6 @@
 # E-commerce : boosting online sales with NLP !
 
-## Introduction :
+## 🎯 Introduction :
 
 - In this project, I work with a corpus of item descriptions from an outdoor apparel brand's product catalog.
 The dataset is available on Kaggle : https://www.kaggle.com/cclark/product-item-data?select=sample-data.csv
@@ -20,7 +20,7 @@ The dataset is available on Kaggle : https://www.kaggle.com/cclark/product-item-
 
 * [Part 4 : LSA model --> topics extraction](#chapter4)
 
-### Technical stack : 
+### 👨‍💻 Technical stack : 
 - Clustering : DBSCAN with Scikit Learn
 - NLP : spacy, Tf-IDF, TruncatedSVD, LSA, Wordcloud
 
